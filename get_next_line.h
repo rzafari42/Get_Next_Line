@@ -25,7 +25,6 @@ char		*ft_newline(char **str);
 char		*ft_strjoin(char const *s1, char const *s2);
 char		*ft_strdup(const char *s1);
 char		*ft_strndup(const char *s1, size_t n);
-char		*ft_strnew(size_t size);
 char		*ft_strchr(const char *s, int c);
 size_t		ft_strlen(const char *s);
 
